@@ -24,15 +24,15 @@
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain,langraph,crewai,antigravity,Google ADKfastapi,flask,docker,git,github,sqlite,gcp&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,git,github,postgresql&theme=dark&perline=12" />
 
 ---
 
 ## GitHub Stats
 
-<a href="https://github.com/connectshaktisinh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=connectshaktisinh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectshaktisinh&layout=compact&theme=dark" />
+<a href="https://github.com/Shaktisinhchavda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaktisinhchavda&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaktisinhchavda&layout=compact&theme=dark" />
 </a>
 
 ---

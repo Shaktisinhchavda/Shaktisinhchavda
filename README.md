@@ -1,7 +1,10 @@
 
-# Shaktisinh Chavda
 
-> **AI isn't the destination, Autonomy is!**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&random=false&width=600&lines=AI+isn%27t+the+destination%2C+Autonomy+is%21" alt="tagline" />
+
+</div>
 
 <div align="center">
   
@@ -14,14 +17,14 @@
 ```
 ┌───────────────────────────────────────────────────────────────────────────────┐
 │                                                                               │
-│  ▸ ROLE       AI & Machine Learning Engineer                                 │
-│  ▸ FOCUS      Building intelligent systems, LLM applications, agentic AI     │
-│  ▸ BASE       Passionate about scalable ML and research-driven development   │
-│  ▸ PROJECTS                                                                  │
-│    ├── VizDataAI             ░  Data visualization powered by generative AI  │
-│    ├── DFD-Research          ░  Deep learning research on system detection   │
-│    ├── AI Research Blog      ░  Automated synthesis with LLMs                │
-│    └── MathGPT               ░  Symbolic math engine with explanations       │
+│  ▸ ROLE       AI & Machine Learning Engineer                                  │
+│  ▸ FOCUS      Building intelligent systems, LLM applications, agentic AI      │
+│  ▸ BASE       Passionate about scalable ML and research-driven development    │
+│  ▸ PROJECTS                                                                   │
+│    ├── VizDataAI             ░  Data visualization powered by generative AI   │
+│    ├── DFD-Research          ░  Deep learning research on system detection    │
+│    ├── AI Research Blog      ░  Automated synthesis with LLMs                 │
+│    └── MathGPT               ░  Symbolic math engine with explanations        │
 │                                                                               │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -36,12 +39,10 @@
 
 ---
 
-## STATS
 
-<a href="https://github.com/Shaktisinhchavda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaktisinhchavda&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaktisinhchavda&layout=compact&theme=dark" />
-</a>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> &nbsp;STATS 
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shaktisinhchavda&hide_border=true&background=0D1117&ring=00FFE0&fire=FF2E97&currStreakLabel=FF2E97&sideLabels=00FFE0&currStreakNum=00FFE0&sideNums=FF2E97&dates=555555&stroke=1a1a2e" height="180" />
 
 ---
 

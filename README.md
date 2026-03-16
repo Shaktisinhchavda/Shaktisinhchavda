@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-shakti.engineer-blue?style=flat&logo=chrome)](https://shakti.engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaktisinh.engineer-blue?style=flat&logo=chrome)](https://shakti.engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connectshaktisinh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/connectshaktisinh/)
 [![Email](https://img.shields.io/badge/Email-connectshaktisinh%40gmail.com-red?style=flat&logo=gmail)](mailto:connectshaktisinh@gmail.com)
 

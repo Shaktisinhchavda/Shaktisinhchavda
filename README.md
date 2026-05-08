@@ -12,16 +12,15 @@
 ```
 ┌────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                │
-│  ▸ ROLE       AI/ML Engineer                                                  │
-│  ▸ FOCUS      LLM Fine-Tuning (SFT, LoRA, QLoRA, GRPO) • RL Agents • RAG    │
-│  ▸ EXP        ML Engineer @ Unada Pvt. Ltd. — Production ML Pipelines        │
-│  ▸ EDUCATION  B.Tech AI & ML — LD College of Engineering (CGPA: 8.3)         │
+│  ▸ ROLE       AI/ML Engineer                                                   │
+│  ▸ FOCUS      Building Agentic Systems • RAG • Scalable LLMs                   │          
+│  ▸ EDUCATION  B.Tech AI & ML — LD College of Engineering                       │
 │                                                                                │
-│  ▸ PROJECTS                                                                   │
-│    ├── Browser Control Agent   ░  RL-based autonomous web navigation (100%)   │
-│    ├── WebMorph AI             ░  AI visual web editor with Gemini + Ollama   │
-│    ├── VizDataAI               ░  Multi-agent data analytics with LangChain  │
-│    └── Deepfake Detection      ░  Cross-domain adversarial media detection   │
+│  ▸ PROJECTS                                                                    │
+│    ├── Browser Control Agent   ░  RL-based autonomous web navigation (100%)    │
+│    ├── WebMorph AI             ░  AI visual web editor with Gemini + Ollama    │
+│    ├── VizDataAI               ░  Multi-agent data analytics with LangChain    │
+│    └── Deepfake Detection      ░  Cross-domain adversarial media detection     │
 │                                                                                │
 └────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -34,7 +33,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -50,24 +49,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| | Project | Description | Tech |
-|---|---------|-------------|------|
-| 🤖 | [**Browser Control Agent**](https://github.com/Shaktisinhchavda/Browser-Control-Agent-Using-Reinforcement-Learning) | Fine-tuned Qwen2.5-0.5B via SFT → GRPO. **100% BrowserGym accuracy**, 4× over zero-shot. | `PyTorch` `LoRA` `GRPO` `Docker` |
-| 🎨 | [**WebMorph AI**](https://github.com/Shaktisinhchavda/WebMorph-AI) | AI web editor — natural language to live UI edits with Gemini Flash + Ollama. 50+ concurrent sessions. | `Next.js` `FastAPI` `Playwright` |
-| 📊 | [**VizDataAI**](https://github.com/Shaktisinhchavda/VizDataAI) | Multi-agent data analytics with LangChain. **40% faster** than single-agent. Local LLM for privacy. | `LangChain` `FastAPI` `Pandas` |
-| 🔬 | **Deepfake Detection** | Cross-domain adversarial media detection. **15% accuracy gain** on 10K+ sample dataset. | `TensorFlow` `GANs` `OpenCV` |
-
----
-
-### 💼 Experience
-
-**ML Engineer** @ *Unada Pvt. Ltd.* `Jan 2025 – Present`
-
-> Engineered quantized inference pipeline → **20% latency reduction** · Built prediction drift detection → **35% faster** bug ID · Shipped 3 ML features in 4-week sprints
-
----
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> GitHub Stats
 

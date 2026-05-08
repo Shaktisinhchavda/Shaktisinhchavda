@@ -3,13 +3,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&random=false&width=600&lines=AI+isn%27t+the+destination%2C+Autonomy+is%21;LLM+Fine-Tuning+%7C+RL+Agents+%7C+Multi-Agent+Systems;Building+Production-Grade+AI+Systems" alt="tagline" />
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-shakti.engineer-7d6b8f?style=flat&logo=googlechrome&logoColor=white)](https://shakti.engineer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connectshaktisinh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/connectshaktisinh/)
-[![Email](https://img.shields.io/badge/Email-connectshaktisinh%40gmail.com-d6aebb?style=flat&logo=gmail&logoColor=white)](mailto:connectshaktisinh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shakti.engineer-7d6b8f?style=flat-square&logo=googlechrome&logoColor=white)](https://shakti.engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connectshaktisinh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectshaktisinh/)
+[![Email](https://img.shields.io/badge/Email-connectshaktisinh%40gmail.com-d6aebb?style=flat-square&logo=gmail&logoColor=white)](mailto:connectshaktisinh@gmail.com)
 
 </div>
 
@@ -30,83 +26,50 @@
 └────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+<div align="center">
+
 [see all repos →](https://github.com/Shaktisinhchavda?tab=repositories)
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=12" />
-
-**ML / Deep Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=12" /> &nbsp; `scikit-learn` `HuggingFace` `OpenCV` `Keras`
-
-**AI / LLM / GenAI**
-
-`LangChain` `LangGraph` `RAG` `Fine-Tuning (SFT, LoRA, QLoRA)` `GRPO / RLHF` `Prompt Engineering` `Multi-Agent Systems` `CrewAI`
-
-**Tools & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,postgres,nextjs&theme=dark&perline=12" /> &nbsp; `ChromaDB` `FAISS` `Playwright` `Ollama`
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🤖 [Browser Control Agent](https://github.com/Shaktisinhchavda/Browser-Control-Agent-Using-Reinforcement-Learning)
-Fine-tuned **Qwen2.5-0.5B** for autonomous web navigation via **SFT → GRPO** pipeline. Achieved **100% task accuracy** on BrowserGym — **4× improvement** over zero-shot baseline. Dockerized for single 4GB VRAM GPU.
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,git,github,postgres,nextjs,js,html,css&theme=dark&perline=13" />
 
-`PyTorch` `HuggingFace TRL` `LoRA` `GRPO` `Docker`
+</div>
 
-</td>
-<td width="50%">
+<div align="center">
 
-### 🎨 [WebMorph AI](https://github.com/Shaktisinhchavda/WebMorph-AI)
-Production-ready AI web editor translating natural language into real-time UI modifications using **Gemini Flash + Ollama**. Processes 50+ concurrent edit sessions with non-destructive JSON style-patching.
+`LangChain` `LangGraph` `RAG` `LoRA` `QLoRA` `GRPO` `HuggingFace` `CrewAI` `Playwright` `Ollama` `ChromaDB` `FAISS` `OpenCV` `scikit-learn`
 
-`Next.js` `FastAPI` `Playwright` `Gemini API` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 [VizDataAI](https://github.com/Shaktisinhchavda/VizDataAI)
-AI-powered data analytics platform with natural language querying via **multi-agent LangChain** architecture — **40% faster** than single-agent baseline. Local LLM inference with Ollama for privacy.
-
-`FastAPI` `LangChain` `Multi-Agent` `Pandas` `Matplotlib`
-
-</td>
-<td width="50%">
-
-### 🔬 Deepfake Detection Research
-Deep learning framework for cross-domain manipulated media detection using **domain-adversarial training**. **15% cross-domain accuracy** improvement on 10,000+ sample dataset.
-
-`TensorFlow` `GANs` `Domain-Adversarial Networks` `OpenCV`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 💼 Experience
+### 🚀 Featured Projects
 
-**ML Engineer** — *Unada Pvt. Ltd.* (Jan 2025 – Present)
-- Engineered quantized ML inference pipeline → **20% latency reduction** via FP16/INT8 optimization
-- Built automated prediction drift detection → **35% faster** bug identification
-- Shipped 3 ML-driven features to production in 4-week sprint cycles
+| | Project | Description | Tech |
+|---|---------|-------------|------|
+| 🤖 | [**Browser Control Agent**](https://github.com/Shaktisinhchavda/Browser-Control-Agent-Using-Reinforcement-Learning) | Fine-tuned Qwen2.5-0.5B via SFT → GRPO. **100% BrowserGym accuracy**, 4× over zero-shot. | `PyTorch` `LoRA` `GRPO` `Docker` |
+| 🎨 | [**WebMorph AI**](https://github.com/Shaktisinhchavda/WebMorph-AI) | AI web editor — natural language to live UI edits with Gemini Flash + Ollama. 50+ concurrent sessions. | `Next.js` `FastAPI` `Playwright` |
+| 📊 | [**VizDataAI**](https://github.com/Shaktisinhchavda/VizDataAI) | Multi-agent data analytics with LangChain. **40% faster** than single-agent. Local LLM for privacy. | `LangChain` `FastAPI` `Pandas` |
+| 🔬 | **Deepfake Detection** | Cross-domain adversarial media detection. **15% accuracy gain** on 10K+ sample dataset. | `TensorFlow` `GANs` `OpenCV` |
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> &nbsp;GitHub Stats
+### 💼 Experience
+
+**ML Engineer** @ *Unada Pvt. Ltd.* `Jan 2025 – Present`
+
+> Engineered quantized inference pipeline → **20% latency reduction** · Built prediction drift detection → **35% faster** bug ID · Shipped 3 ML features in 4-week sprints
+
+---
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
 
